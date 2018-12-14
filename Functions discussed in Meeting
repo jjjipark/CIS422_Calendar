@@ -1,0 +1,11 @@
+Notes written from Becca Araya
+The functions we discussed in meeting on 4/13/18:
+
+Between view and controller: 
+int add_event(struct view_event): returns controller ID
+struct in_view get_events(struct tm start, struct tm end, string category, int priority)
+void save()
+
+Between controller and database:
+get_data_from_db(struct tm start, struct tm end): returns array of db events
+save_changes(array of db events)

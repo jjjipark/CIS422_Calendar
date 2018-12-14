@@ -1,0 +1,31 @@
+Group 3 Calendar Application
+By Becca Araya, Taylor Santos, Alonzo Altamirano, and Jieun Park
+Written by Alonzo Altamirano
+Last Edit: April 30th, 2018
+
+File Structure:
+
+root/
+├── Application
+│   ├── CIS_422_Calendar_Group_3
+│   ├── Events.db
+│   └── more\ files
+├── Documentation
+│   ├── Installation.pdf
+│   ├── Meetings.pdf
+│   ├── ProjectPlan.pdf
+│   ├── WorkSchedule.pdf
+│   └── User\ Manual.pdf
+└── README
+
+The Documentation directory contains the text information for our project.  Here are the contents of each file.
+1. ProjectPlan.pdf: Project Plan, Software Requirements, and Software Architectue/Design
+2. Installation.pdf: Instructions for how to run the application, make a shortcut, and add an icon.
+3. User\ Manual.pdf: Instructions for using the application.
+4. Meetings.pdf: Log of all group meetings.
+5. WorkSchedule.pdf: Log of all group tasks.  
+
+The Application directory contains the files for running the application.  Here are the contents of each file.
+1. CIS_422_Calendar_Group_3: An executable file that runs our application.  This is a Windows 10 Application.
+2. Events.db: This file is not initially in the directory.  It is the SQLite database.
+3. more\ files: Additional files that program relies on.
